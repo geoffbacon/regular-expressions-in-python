@@ -1,5 +1,8 @@
 # Regular expressions in Python
 
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/geoffbacon/regular-expressions-in-python/master)
+
+
 ## Overview
 
 Do you need to clean up some text data? You need regular expressions!
