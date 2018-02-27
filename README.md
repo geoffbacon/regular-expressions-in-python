@@ -59,4 +59,4 @@ If you spot a problem with these materials, please make an issue describing the 
 * Chris Hench
 * Natalie Ahn
 
-![dlab logo](data/logo.png)
+![dlab logo](assets/logo.png)
