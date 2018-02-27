@@ -2,16 +2,16 @@
 
 ## Overview
 
-A three to four sentence description of the workshop.
+Do you need to clean up some text data? Perhaps you're looking 
 
 ## What you'll learn
-* Thing 1
-* Thing 2
-* etc.
+* Which problems regular expressions can help you solve, and which they cannot.
+* Regular expression syntax, including the difference between literal characters and metacharacters.
+* How to use regular expressions to solve real world problems.
 
 ## Prerequisites
 
-What you need to know before taking this workshop. Remember, 
+Although the workshop can be completed without a background in Python, familiarity with Python is strongly encouraged. We use Python as a way of demonstrating what regular expressions can do, but the core substance is on regular expressions, which are present in all modern programming languages and text editors. A level of Python of our FUN!damentals series is encouraged.
 
 ## Getting started & software prerequisites
 
@@ -39,8 +39,12 @@ It's OK Not To Know! That's our motto at [D-Lab](http://dlab.berkeley.edu/). D-L
 
 ## References
 
-* [Reference 1](www.google.com)
-* etc.
+* [Python 3 documentation on regular expressions](https://docs.python.org/3/howto/regex.html)
+* [Python regular expression cheat sheet (2.7, but mostly unchanged)](https://github.com/dlab-berkeley/regular-expressions-in-python/blob/master/regex_cheatsheet.pdf)
+* [Pythex](https://pythex.org/)
+* [HOWTO Python regular expressions](https://docs.python.org/3/howto/regex.html)
+* [Jurafsky & Martin's chapter on regular expressions](https://web.stanford.edu/~jurafsky/slp3/2.pdf)
+* [Mastering Python regular expressions](https://www.packtpub.com/application-development/mastering-python-regular-expressions)
 
 ## Contributing
 
@@ -48,13 +52,11 @@ If you spot a problem with these materials, please make an issue describing the 
 
 ## Authors
 
-* Add your name if you worked on this
-* etc
+* Geoff Bacon
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc.
+* Chris Hench
+* Natalie Ahn
 
 !(data/logo.png)
