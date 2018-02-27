@@ -2,7 +2,7 @@
 
 ## Overview
 
-Do you need to clean up some text data? Perhaps you're looking 
+Do you need to clean up some text data? You need regular expressions!
 
 ## What you'll learn
 * Which problems regular expressions can help you solve, and which they cannot.
